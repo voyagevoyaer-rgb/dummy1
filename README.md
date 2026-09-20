@@ -1,8 +1,8 @@
-# NIDARSHAN — Cyber-Fraud Intelligence
+# NIDARSHAN — Cyber-Fraud Intelligence a dummy commit plz ignore
 
 NIDARSHAN is an evidence-first investigation workspace for cyber-fraud teams. It connects UPI, CDR, IPDR, and chat signals into a verifiable network of accounts, devices, phone numbers, and shared infrastructure.
 
-> **Prototype status:** This release ships a seeded investigation story and typed full-stack contracts for demonstrating the evidence-to-network workflow. Findings are investigative leads and require human verification.
+<!-- > **Prototype status:** This release ships a seeded investigation story and typed full-stack contracts for demonstrating the evidence-to-network workflow. Findings are investigative leads and require human verification. -->
 
 ## What is included
 
